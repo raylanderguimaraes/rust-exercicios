@@ -1,0 +1,6 @@
+[package]
+name = "cancao_doze_dias"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
